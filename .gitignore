@@ -2,4 +2,4 @@
 db.sqlite3
 __pycache__/
 copy.txt
-.DS_Store
+.DS_Store.DS_Store
