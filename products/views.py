@@ -31,7 +31,7 @@ def products(request):
                       'photo': '/static/vendor/img/products/Black-Dr-Martens-shoes.png'},
                      {'name': 'Темно-синие широкие строгие брюки ASOS DESIGN', 'price': 2890,
                       'descipt': 'Легкая эластичная ткань сирсакер Фактурная ткань.',
-                      'photo': '/static/vendor/img/products/Dark-blue-wide-leg-ASOs-DESIGN-trousers.png'},
+                      'photo': '/static/vendor/img/products/Dark-blue-wide-leg-ASOs-DESIGN-trousers.png'}
 
                      ]
 
